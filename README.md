@@ -2,6 +2,8 @@
 
 Generate culturally appropriate and meaningful Chinese names based on your English name or desired meaning.
 
+Visit: https://chinese-name-generator.com
+
 
 ## Features
 

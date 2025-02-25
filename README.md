@@ -1,4 +1,4 @@
-# ![Chinese Name Generator](https://chinese-name-generator.com)
+# [Chinese Name Generator](https://chinese-name-generator.com)
 
 Generate culturally appropriate and meaningful Chinese names based on your English name or desired meaning.
 
